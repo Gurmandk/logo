@@ -1,0 +1,286 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.navbar-brand{
+  font-size: 1.10rem;
+  font-weight: 450;
+  color: #e8e8e8 !important;
+}
+.paddingtop{
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.navbar-toggler{
+  border:#cbbfd6;
+}
+.nav-link {
+color: #e8e8e8 !important;
+font-weight: 500;
+}
+
+.nav-link.active {
+  color: #e8e8e8 !important;
+  border-color: #e8e8e8 !important;
+}
+
+ .button.navbar-toggler{
+  color: #e8e8e8 !important;
+}
+
+.text-container{
+  max-width: 1000px;
+}
+.text-size{
+  font-weight: 480;
+}
+
+.front-page-text{
+  padding-top: 20px;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  max-width: 1100px;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+}
+
+.front-page-text{
+  padding-top: 20px;
+}
+
+.text-container{
+  max-width: 1000px;
+}
+
+.body-padding{
+  padding-top: 60px;
+}
+
+.paddingbottom{
+  padding-bottom: 25px;
+}
+
+.OpenSansHeader{
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20.34px;
+}
+
+.OpenSansHeaderTwo{
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50.52px;
+}
+
+.OpenSansHeaderThree{
+  font-weight: 400;
+  font-style: normal;
+  font-size: 37.90px;
+}
+.OpenSansHeaderFour{
+  font-weight: 400;
+  font-style: normal;
+  font-size: 28.43px;
+}
+.OpenSansHeaderFive{
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+}
+.OpenSansHeaderSix{
+  font-weight: 600;
+  font-style: normal;
+  font-size: 16px;
+}
+.OpenSansHeaderSeven{
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  color: #007ebe;
+}
+
+.RobotoLatoHeaderOne{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 67.34px;
+}
+
+.RobotoLatoHeaderTwo{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 50.52px;
+}
+
+.RobotoLatoHeaderThree{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 37.90px;
+}
+.RobotoLatoHeaderFour{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 28.43px;
+}
+.RobotoLatoHeaderFive{
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+}
+.RobotoLatoHeaderSix{
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 16px;
+}
+.RobotoLatoHeaderSeven{
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  color: #007ebe;
+}
+
+
+.PDHeaderOne{
+  
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 67.34px;
+}
+
+.PDHeaderTwo{
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 50.52px;
+}
+
+.body-padding2  {
+	padding:20px;
+  padding-bottom: 20px;
+}
+
+.body-padding{
+	padding:20px;
+}
+
+.PDHeaderThree{
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 37.90px;
+}
+.PDHeaderFour{
+  font-family: 'Playfair Display', serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 28.43px;
+}
+.PDHeaderFive{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+}
+.PDHeaderSix{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 16px;
+}
+.PDHeaderSeven{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  color: #007ebe;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.typefaces{
+	padding: 20px;
+	font-size: 28.43px;
+	
+}
+
+.bg-dark{
+}
+
+.header{
+	background-color: #0b0c10;
+}
+
+.footer{
+	background-color: #0b0c10;
+	height: 60px;
+	color: #eee;
+	font-size: .8rem;
+	text-align: center;
+	padding-top: 20px; 
+	margin-top:10px;
+	width:120%;
+	margin-left: -150px;
+}
+
+.container-style{
+  border-style: solid;
+  border-width: thin;
+  margin-top: 10px;
+  border-color: #d3d3d3;
+}
+
+@charset "UTF-8";
+/* CSS Documents */
+
+.bg-dark{
+  background-color: #000000 !important;
+}
+
+
+
+
+.footer{
+  background-color: #000000 ;
+  opacity: 100%;
+  height: 50px;
+  color: #fff;
+  font-size: .8rem;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.yellowlogo{
+  padding-bottom: 60px;
+  margin-left: 40px;
+}
+
+.bwlogo{
+  margin-left: 65px;
+  padding-top: 20px;
+}
+
+.greylogo{
+  margin-left: 65px;
+}
+
+.fvlogo{
+    margin-left: 155px;
+    margin-top: 70px;
+
+}
+
